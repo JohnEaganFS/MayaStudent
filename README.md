@@ -3,6 +3,8 @@ Installation:
 
 Just download the file in the "dist" folder
 
+If you prefer running it through command line with python, use the py file.
+
 Use Instructions:
 
 1. Run downloaded exe
